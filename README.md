@@ -1,15 +1,10 @@
 # Data-Mining-Menggunakan-Decision-Tree
 
-[![auc][aucsvg]][auc] [![License][licensesvg]][license]
-
-[aucsvg]: https://github.com/anthomars/Data-Mining-Menggunakan-Decision-Tree.git
-[auc]: https://github.com/anthomars/Data-Mining-Menggunakan-Decision-Tree.git
-
-[licensesvg]: https://github.com/anthomars/Data-Mining-Menggunakan-Decision-Tree.git
-[license]: https://github.com/anthomars/Data-Mining-Menggunakan-Decision-Tree.git
-
 ```
 A python implementation of Decision Tree
+```
+```
+JOKO SUSANTO_171011402097
 ```
 
 ## Usage     : 
