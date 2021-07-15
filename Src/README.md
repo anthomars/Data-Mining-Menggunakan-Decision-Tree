@@ -10,7 +10,6 @@
 
 ```
 A python implementation of Decision Tree
-Env : Python2.6
 ```
 
 ## Usage     : 
@@ -75,7 +74,3 @@ DecisionTreeResultPng (File)- 10 random results of Decision Tree Figure
   |--     cv2.imshow('fruitPng.jpg', fruitPng)
   |--     cv2.waitKey(5000)
 ```
-
-## License
-
-[The MIT License](https://github.com/bravotty/DataMining_DecisionTree/blob/master/LICENSE)
