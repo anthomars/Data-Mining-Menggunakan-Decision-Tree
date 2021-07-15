@@ -2,11 +2,11 @@
 
 [![auc][aucsvg]][auc] [![License][licensesvg]][license]
 
-[aucsvg]: https://img.shields.io/badge/tyty-DecisionTree-orange.svg
-[auc]: https://github.com/bravotty/DataMining_DecisionTree
+[aucsvg]: https://github.com/anthomars/Data-Mining-Menggunakan-Decision-Tree.git
+[auc]: https://github.com/anthomars/Data-Mining-Menggunakan-Decision-Tree.git
 
-[licensesvg]: https://img.shields.io/badge/License-MIT-blue.svg
-[license]: https://github.com/bravotty/DataMining_DecisionTree/blob/master/LICENSE
+[licensesvg]: https://github.com/anthomars/Data-Mining-Menggunakan-Decision-Tree.git
+[license]: https://github.com/anthomars/Data-Mining-Menggunakan-Decision-Tree.git
 
 ```
 A python implementation of Decision Tree
