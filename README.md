@@ -10,7 +10,6 @@
 
 ```
 A python implementation of Decision Tree
-Env : Python2.6
 ```
 
 ## Usage     : 
